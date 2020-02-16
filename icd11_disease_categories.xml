@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tryton>
+  <data>
+    <record id="icd11cat10" model="gnuhealth.pathology.category">
+      <field name="name">10 Diseases of the ear or mastoid process</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat11" model="gnuhealth.pathology.category">
+      <field name="name">11 Diseases of the circulatory system</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat12" model="gnuhealth.pathology.category">
+      <field name="name">12 Diseases of the respiratory system</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat13" model="gnuhealth.pathology.category">
+      <field name="name">13 Diseases of the digestive system</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat14" model="gnuhealth.pathology.category">
+      <field name="name">14 Diseases of the skin</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat15" model="gnuhealth.pathology.category">
+      <field name="name">15 Diseases of the musculoskeletal system or connective tissue</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat16" model="gnuhealth.pathology.category">
+      <field name="name">16 Diseases of the genitourinary system</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat17" model="gnuhealth.pathology.category">
+      <field name="name">17 Conditions related to sexual health</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat18" model="gnuhealth.pathology.category">
+      <field name="name">18 Pregnancy, childbirth or the puerperium</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat19" model="gnuhealth.pathology.category">
+      <field name="name">19 Certain conditions originating in the perinatal period</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat20" model="gnuhealth.pathology.category">
+      <field name="name">20 Developmental anomalies</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat21" model="gnuhealth.pathology.category">
+      <field name="name">21 Symptoms, signs or clinical findings, not elsewhere classified</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat22" model="gnuhealth.pathology.category">
+      <field name="name">22 Injury, poisoning or certain other consequences of external causes</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat23" model="gnuhealth.pathology.category">
+      <field name="name">23 External causes of morbidity or mortality</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat24" model="gnuhealth.pathology.category">
+      <field name="name">24 Factors influencing health status or contact with health services</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat25" model="gnuhealth.pathology.category">
+      <field name="name">25 Codes for special purposes</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat26" model="gnuhealth.pathology.category">
+      <field name="name">26 Supplementary Chapter Traditional Medicine Conditions - Module I</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat01" model="gnuhealth.pathology.category">
+      <field name="name">01 Certain infectious or parasitic diseases</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat02" model="gnuhealth.pathology.category">
+      <field name="name">02 Neoplasms</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat03" model="gnuhealth.pathology.category">
+      <field name="name">03 Diseases of the blood or blood-forming organs</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat04" model="gnuhealth.pathology.category">
+      <field name="name">04 Diseases of the immune system</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat05" model="gnuhealth.pathology.category">
+      <field name="name">05 Endocrine, nutritional or metabolic diseases</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat06" model="gnuhealth.pathology.category">
+      <field name="name">06 Mental, behavioural or neurodevelopmental disorders</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat07" model="gnuhealth.pathology.category">
+      <field name="name">07 Sleep-wake disorders</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat08" model="gnuhealth.pathology.category">
+      <field name="name">08 Diseases of the nervous system</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11cat09" model="gnuhealth.pathology.category">
+      <field name="name">09 Diseases of the visual system</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11catV" model="gnuhealth.pathology.category">
+      <field name="name">V Supplementary section for functioning assessment</field>
+      <field name="classifier">ICD11</field>
+    </record>
+    <record id="icd11catX" model="gnuhealth.pathology.category">
+      <field name="name">X Extension Codes</field>
+      <field name="classifier">ICD11</field>
+    </record>
+  </data>
+</tryton>
